@@ -11,3 +11,9 @@ Link to work: [catPhotoApp](https://github.com/Hassan-Macow/100DaysOfFilanTechCo
 Today's Progress: I read the first 10 chapters of HTML & CSS book by Jon Duckett. I also solved the Learn HTML by building a cat Photo App on Freecodecamp's Responsive web design challenges.
 
 Link to work: [static website](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+### Day 3: October 9, 2022
+
+Today's Progress: I read the first 10 chapters of HTML & CSS book by Jon Duckett. I also solved the Learn HTML by building a cat Photo App on Freecodecamp's Responsive web design challenges.
+
+Link to work: [static website](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
