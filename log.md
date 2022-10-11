@@ -17,3 +17,9 @@ Link to work: [static website](https://github.com/Hassan-Macow/100DaysOfFilanTec
 I did my third step in the 100 day codechallenge. I also practiced HTML and CSS by building a CAMPER CAFE ,CSS Color Markers, ... on Freecodecamp's Responsive web design challenges.
 
 Link to work: [CAMPER CAFE,CSS Color Marker](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+### Day 4: October 10, 2022
+
+I did the fourth step of the 100-day codechallenge. By creating a Registration form for Freecodecamp's responsive web design challenges, I also got some practice with HTML and CSS.
+
+Link to work: [Regestrationform](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
