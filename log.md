@@ -23,3 +23,7 @@ Link to work: [CAMPER CAFE,CSS Color Marker](https://github.com/Hassan-Macow/100
 I did the fourth step of the 100-day codechallenge. By creating a Registration form for Freecodecamp's responsive web design challenges, I also got some practice with HTML and CSS.
 
 Link to work: [Regestrationform](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+### Day 5: October 11, 2022
+
+My work today was completed. by developing a survey form on the Freecodecamp challenges for responsive web design.
