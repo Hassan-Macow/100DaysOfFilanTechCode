@@ -27,4 +27,11 @@ Link to work: [Regestrationform](https://github.com/Hassan-Macow/100DaysOfFilanT
 ### Day 5: October 11, 2022
 
 My work today was completed. by developing a survey form on the Freecodecamp challenges for responsive web design.
+
 Link to work: [Surveyform](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+### Day 6: October 12, 2022
+
+Today's work is done by creating an Rothko painting based on the Freecodecamp challenges for responsive web design.
+
+Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
