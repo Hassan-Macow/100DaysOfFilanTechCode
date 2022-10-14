@@ -40,4 +40,4 @@ Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTe
 
 The work for today is finished with the creation of a Flexbox Photo based on the Freecodecamp challenges for responsive web design.
 
-Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+Link to work: [Flexbox Photo](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
