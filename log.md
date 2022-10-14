@@ -32,6 +32,12 @@ Link to work: [Surveyform](https://github.com/Hassan-Macow/100DaysOfFilanTechCod
 
 ### Day 6: October 12, 2022
 
-Today's work is done by creating an Rothko painting based on the Freecodecamp challenges for responsive web design.
+Today's progress is done, by creating an Rothko painting based on the Freecodecamp challenges for responsive web design.
+
+Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+### Day 7: October 13, 2022
+
+The work for today is finished with the creation of a Flexbox Photo based on the Freecodecamp challenges for responsive web design.
 
 Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
