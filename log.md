@@ -41,3 +41,10 @@ Link to work: [Rothko painting](https://github.com/Hassan-Macow/100DaysOfFilanTe
 The work for today is finished with the creation of a Flexbox Photo based on the Freecodecamp challenges for responsive web design.
 
 Link to work: [Flexbox Photo](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
+
+
+### Day 8: October 14, 2022
+
+With the building of a Nutrition Facts based on the Freecodecamp tasks for responsive web design, the work for today is done.
+
+Link to work: [Nutrition Facts](https://github.com/Hassan-Macow/100DaysOfFilanTechCode/tree/main/HTML_CSS)
